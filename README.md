@@ -8,10 +8,21 @@ Hello 👋
 
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Spring-blue?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp;  
+
+
+
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> &nbsp;  
+
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp;  
+
+
 
 
 <!--
