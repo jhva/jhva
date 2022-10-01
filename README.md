@@ -1,10 +1,10 @@
-<!-- ### Hello Everyone 👋   
+Hello Everyone 👋   
 
  - 💻  My dream is to be a developer! 
 
 - ✏ I am studying React, React-Native, etc.
 
- - 🇰🇷  **I'm from South Korea** -->
+ - 🇰🇷  **I'm from South Korea**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhva&show_icons=true&theme=radical)
 
