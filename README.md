@@ -17,10 +17,18 @@ Hello 👋
 
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> &nbsp;  
-
-
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> &nbsp;  
+
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> &nbsp;  
+
+
+
+
+<b>learning skills</b>
+
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/> &nbsp; 
 
 
 
