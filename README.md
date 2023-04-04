@@ -27,7 +27,7 @@
 
 
 
-<b>learning skills</b>
+
 
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> &nbsp;
 
