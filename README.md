@@ -6,7 +6,7 @@
 
 
 
-
+<!-- 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> &nbsp;
@@ -30,7 +30,7 @@
 
 
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> &nbsp;
-
+ -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhva)](https://github.com/anuraghazra/github-readme-stats)
 
