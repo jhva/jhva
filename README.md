@@ -2,15 +2,11 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhva%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
 
-
-  <div>
-   ✨ _Thank you for coming_   
-    <a href="https://velog.io/@jhva">
-        <img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
-    </a>
-</div>
+ ✨ _Thank you for coming_   **[BLOG](https://backtony.github.io/)** | **[RESUME](https://www.notion.so/ee0f127a08b24d75ad532de6a14107f1)**
 
 
+- **HighDev (2022.04 ~ 2022.10)**  
+- **Kakao Cloud School 2th (2022.11 ~ 2023.05)** 
 <!-- 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
@@ -36,6 +32,10 @@
 
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> &nbsp;
  -->
+
+
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhva)](https://github.com/anuraghazra/github-readme-stats)
 
