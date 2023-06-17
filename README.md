@@ -2,7 +2,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhva%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
 
- ✨ _Thank you for coming_   **[BLOG](https://velog.io/@jhva)** | **[RESUME](https://www.notion.so/ee0f127a08b24d75ad532de6a14107f1)**
+ ✨ _Thank you for coming_   <a href="https://velog.io/@jhva" target="_blank">BLOG</a> |  <a href="https://www.notion.so/ee0f127a08b24d75ad532de6a14107f1" target="_blank">RESUME</a>
 
 
 - **HighDev (2022.04 ~ 2022.10)**  
