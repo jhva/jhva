@@ -3,7 +3,7 @@
  -->
 
  ✨ _Thank you for coming_   <a href="https://velog.io/@jhva" target="_blank">BLOG</a>
-  <!-- |  <a href="https://www.notion.so/ee0f127a08b24d75ad532de6a14107f1" target="_blank">RESUME</a> -->
+ |  <a href="https://www.notion.so/ee0f127a08b24d75ad532de6a14107f1" target="_blank">RESUME</a> 
 
 
 - **HighDev (2022.04 ~ 2022.10)**  
