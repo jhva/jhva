@@ -5,9 +5,8 @@
  ✨ _Thank you for coming_   <a href="https://velog.io/@jhva" target="_blank">BLOG</a>
 
 
-
-- **HighDev (2022.04 ~ 2022.10)**  
 - **Kakao Cloud School 2th (2022.11 ~ 2023.05)** 
+- **HighDev (2022.04 ~ 2022.10)**  
 <!-- 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/ReactNative-blue?style=flat-square&logo=React&logoColor=white"/> &nbsp;
